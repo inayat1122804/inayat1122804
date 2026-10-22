@@ -1,105 +1,113 @@
 # 👋 Hi, I'm Inayat Ullah Khan
 
-### 💻 Full Stack MERN Stack Developer | Building Modern Web Applications
+### 💻 Full Stack Web Developer | MERN Stack | Pakistan 🇵🇰
 
 <p align="center">
   <a href="https://portfolio-website-gray-seven-84.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/inayat1122804">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2563eb?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:inayatkhan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-ea4335?style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://github.com/inayat1122804">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inayat1122804&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=inayat1122804&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" alt="Profile visitors" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Full Stack MERN Stack Developer from Pakistan who enjoys building responsive, user-friendly, and practical web applications.
+I'm a Full Stack Web Developer from Pakistan who enjoys building modern, responsive, and user-friendly web applications.
 
-- 🔭 Currently working on my [Personal Portfolio Website](https://portfolio-website-gray-seven-84.vercel.app/)
-- 🌱 Improving my skills in React.js, Node.js, databases, and AI integration
-- 💻 Experienced with frontend and backend web development technologies
-- 🤝 Interested in open-source contributions and collaborative projects
-- 🧠 Exploring ways to integrate AI into modern web applications
-- 🎯 Goal: Build useful products and grow as a professional software developer
-- 📫 Reach me at **inayatkhan.dev@gmail.com**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" alt="Frontend technologies" />
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Backend technologies" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Database technologies" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Development tools" />
-</p>
+- 🔭 Working on my personal portfolio and full-stack projects
+- 🌱 Improving my React.js, Node.js, and database development skills
+- 💡 Interested in AI-powered web applications
+- 🤝 Open to collaborating on web development projects
+- 🎯 Focused on writing clean code and building practical solutions
+- 📬 Email: **inayatkhan.dev@gmail.com**
 
 ---
 
-## 📌 Featured Projects
+## 🧰 My Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react" alt="HTML CSS JavaScript Tailwind CSS Bootstrap React" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+</p>
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git GitHub VS Code Postman Vercel" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+</p>
+
+---
+
+## 🌟 Featured Projects
 
 ### 🌐 Personal Portfolio Website
 
-My portfolio website showcasing my developer profile, skills, and projects.
+My personal website for showcasing my skills, projects, and developer profile.
 
-- **Live Demo:** [Visit Portfolio](https://portfolio-website-gray-seven-84.vercel.app/)
-- **Source Code:** [View Repository](https://github.com/inayat1122804/portfolio-website)
-- **Focus:** Responsive design and professional presentation
+<p>
+  <a href="https://portfolio-website-gray-seven-84.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-2563eb?style=for-the-badge&logo=vercel" alt="Live portfolio" />
+  </a>
+  <a href="https://github.com/inayat1122804/portfolio-website">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Portfolio source code" />
+  </a>
+</p>
+
+**Technologies:** React.js, JavaScript, and modern web technologies.
 
 ### 💬 Full Stack Chat Application
 
-A full-stack chat application project built to practise frontend and backend development.
+A chat application project demonstrating my full-stack development practice.
 
-- **Source Code:** [View Chat App on GitHub](https://github.com/inayat1122804/Chat-App)
-- **Focus:** React, Node.js, Express.js, and MongoDB
+<p>
+  <a href="https://github.com/inayat1122804/Chat-App">
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="Chat application repository" />
+  </a>
+</p>
 
-> More projects will be added as I continue building and improving my portfolio.
+**Technologies:** React.js, Node.js, Express.js, and MongoDB.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=inayat1122804&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inayat1122804&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=inayat1122804&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=inayat1122804&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
 </p>
 
-### ⭐ Repository & Profile Metrics
+### 📦 Public Repository Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Finayat1122804&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=181717" alt="Public repositories" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Finayat1122804&query=%24.followers&label=Followers&logo=github&style=for-the-badge&color=0969da" alt="GitHub followers" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/inayat1122804/portfolio-website?style=for-the-badge&label=Portfolio%20Stars" alt="Portfolio repository stars" />
-  <img src="https://img.shields.io/github/stars/inayat1122804/Chat-App?style=for-the-badge&label=Chat%20App%20Stars" alt="Chat app repository stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Finayat1122804&query=%24.public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=blue" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Finayat1122804&query=%24.followers&label=Followers&logo=github&style=for-the-badge&color=purple" alt="Followers" />
 </p>
 
 ---
@@ -107,7 +115,7 @@ A full-stack chat application project built to practise frontend and backend dev
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=inayat1122804&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=inayat1122804&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -116,40 +124,44 @@ A full-stack chat application project built to practise frontend and backend dev
 
 <p align="center">
   <a href="https://github.com/inayat1122804">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=inayat1122804&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=inayat1122804&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  </a>
+</p>
+
+> If the external activity graph is unavailable, visit my GitHub profile to see my official contribution calendar.
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/inayat1122804?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-6f42c1?style=for-the-badge&logo=github" alt="Explore repositories" />
   </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inayat1122804&theme=flat&no-frame=true&margin-w=8&row=1" alt="GitHub trophies" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/inayatkhan2006/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/inayat1122804">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/inayatkhan2006/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:inayatkhan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/inayat1122804">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💡 <b>Building, learning, and improving one project at a time.</b>
+  <b>💻 Learn. Build. Deploy. Improve. Repeat. 🚀</b>
 </p>
 
 <p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
+  Thanks for visiting my profile! ⭐
 </p>
